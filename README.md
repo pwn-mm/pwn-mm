@@ -9,6 +9,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at University of Computer Studies, Yangon.
 - 💼 &nbsp; Working as a freelance developer.
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:tbagforlearning@gmail.com)
 - 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design..
 - ✍️ &nbsp; Pursuing Character Drawing and Blog Writing as hobbies/side hustles.
 
@@ -49,7 +50,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.phyowainyunt.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.phyowainyunt.me-cyan?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Phyo%20Wai%20Nyunt-cyan?style=flat-square&logo=linkedin"></a>
-<a href="mailto:tbagforlearning@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tbagforlearning@gmail.com-cyan?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="pwn" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/phyowai.nyunt.33/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pwn" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
