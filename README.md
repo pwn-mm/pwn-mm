@@ -30,7 +30,7 @@
 
 - 💻 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   
 - 🌐 &nbsp;
