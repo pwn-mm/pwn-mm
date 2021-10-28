@@ -19,12 +19,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at University of Computer Studies, Yangon.
 - 💼 &nbsp; Working as a freelance developer.
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:tbagforlearning@gmail.com)
 - 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design..
-- ✍️ &nbsp; Pursuing Character Drawing and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Character Drawing and Blog Writing as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
