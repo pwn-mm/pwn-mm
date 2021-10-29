@@ -2,7 +2,7 @@
 
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Phyo Wai Nyunt <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phyowainyunt-19" alt="raghav-byte" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phyowainyunt-19" alt="pwn" /> </p>
 
 <a href="https://www.facebook.com/phyowai.nyunt.33/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pwn" height="25" width="25" />
