@@ -19,7 +19,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at University of Computer Studies, Yangon.
-- 💼 &nbsp; Freelancer on ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white).
+- 💼 &nbsp; Freelancer on <span style="margin-top:5px">![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)</span>.
 - 📫 &nbsp; How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbagforlearning@gmail.com)](mailto:tbagforlearning@gmail.com)
 - 🌱 &nbsp; Learning about Cloud Computing.
 
