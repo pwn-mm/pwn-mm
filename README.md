@@ -28,8 +28,8 @@
 
 - 💻 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind&logo=tailwind)
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
