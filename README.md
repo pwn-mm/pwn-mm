@@ -7,7 +7,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pwn" height="25" width="25" />
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/phyowainyunt/">
   <img align="left" alt="PWN's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/phyowainyunt-19">
@@ -19,30 +19,29 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at University of Computer Studies, Yangon.
-- 💼 &nbsp; Working as a freelance developer on Upwork.
-- 📫 &nbsp; How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:tbagforlearning@gmail.com)
+- 💼 &nbsp; Working as a freelance developer on ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white).
+- 📫 &nbsp; How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbagforlearning@gmail.com)](mailto:tbagforlearning@gmail.com)
 - 🌱 &nbsp; Learning about Cloud Computing.
-- ✍️ &nbsp; Character Drawing and Travelling.
 
 <h3> 🛠 &nbsp;My Stack</h3>
 
-- 💻 &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 💻 &nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind&logo=tailwind)
-  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material UI](https://img.shields.io/badge/-Material-333333?style=flat&logo=material-ui&logoColor=3D5AFE)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   
 - ⚙️ &nbsp;
