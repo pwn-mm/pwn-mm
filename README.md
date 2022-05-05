@@ -10,8 +10,8 @@
 <br/>
 
 
-- 🍻  Study at University of Computer Science, Yangon
-- ⚡  React / Html / Js / Css
+- 🍻  Study at University of Computer Studies, Yangon
+- ⚡  React / Node / Html / Js / Css
 
 
 #### Coding status last week ⌨️
