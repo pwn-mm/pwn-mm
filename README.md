@@ -10,7 +10,7 @@
 <br/>
 
 
-- 🍻  Study at University of Computer Studies, Yangon
+- 🍻  Self-studying | University of Computer Studies, Yangon (2017 - 2020)
 - ⚡  React / Node / Html / Js / Css
 
 
