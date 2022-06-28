@@ -18,7 +18,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-coding everyday
+coding everyday 
+won't be able to code from (28.6.2022) to (3.7.2022) as I have to JLPT Exam
 ```
 <!--END_SECTION:waka-->
 
