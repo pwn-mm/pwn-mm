@@ -11,21 +11,21 @@
 
 
 - 🍻  Self-studying | University of Computer Studies, Yangon (2017 - 2020)
-- ⚡  React / Node / Html / Js / Css
+- ⚡  Angular / React / Node / Html / Js / Css
 - 🍣  JLPT N3
 
 <br/>
 
 ### Notice
 
-- ❗   Won't be able to code from (28.6.2022) to around (10.7.2022) as I have to take the JLPT Exam and also because of some family stuff. Thank You.
+- ❗   Won't be able to code from (28.6.2022) to around (10.7.2022) as I have to take the JLPT Exam. Thank You.
 
 
 #### Coding status ⌨️
 
 <!--START_SECTION:waka-->
 ```text
-Coding everyday 
+Almost everyday 
 ```
 <!--END_SECTION:waka-->
 
