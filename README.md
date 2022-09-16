@@ -25,7 +25,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Almost everyday 
+Literally everyday 
 ```
 <!--END_SECTION:waka-->
 
