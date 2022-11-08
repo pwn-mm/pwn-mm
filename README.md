@@ -18,7 +18,8 @@
 
 ### Notice
 
-- ❗   Won't be able to code from (28.6.2022) to around (10.7.2022) as I have to take the JLPT Exam. Thank You.
+- ❗ From (28.6.2022) to around (10.7.2022)  =>  Preparation for the JLPT Exam. Thank You.
+- ❗ From (1.11.2022) to around (13.11.2022) =>  Preparation for the EJU Exam. Thank You.
 
 
 #### Coding status ⌨️
