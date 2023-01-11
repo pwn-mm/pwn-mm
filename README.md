@@ -16,12 +16,6 @@
 
 <br/>
 
-### Notice
-
-- ❗ From (28.6.2022) to around (10.7.2022)  =>  Preparation for the JLPT Exam. Thank You.
-- ❗ From (1.11.2022) to around (13.11.2022) =>  Preparation for the EJU Exam. Thank You.
-
-
 #### Coding status ⌨️
 
 <!--START_SECTION:waka-->
