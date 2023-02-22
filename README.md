@@ -11,7 +11,7 @@
 
 
 - 🍻  Self-studying | University of Computer Studies, Yangon (2017 - 2020)
-- ⚡  Angular / React / Node / Html / Js / Css
+- ⚡  Angular / React / Next
 - 🍣  JLPT N3
 
 <br/>
