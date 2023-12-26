@@ -12,7 +12,7 @@
 
 - 🍻  Self-studying | University of Computer Studies, Yangon.
 - ⚡  Angular / React / Next
-- 🍣  JLPT N3
+- 🍣  JLPT N2
 
 <br/>
 
